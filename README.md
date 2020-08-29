@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jirapat 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact)](https://github.com/infinityc2/github-readme-stats)
+
+![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
+
 
 <!--
 **infinityc2/infinityc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
