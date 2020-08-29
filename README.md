@@ -1,4 +1,4 @@
-### Hi there, I'm Jirapat 👋
+### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact)](https://github.com/infinityc2/github-readme-stats)
 
 ![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
