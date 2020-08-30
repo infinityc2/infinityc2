@@ -4,11 +4,6 @@
 
 ![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
 
-<--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact" alt="infinityc2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula" alt="infinityc2" /></p>
--->
-
 ### Languages and tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="30" height="30">
