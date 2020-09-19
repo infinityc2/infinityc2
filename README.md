@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Jirapat Duangpratum</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact)](https://github.com/infinityc2/github-readme-stats)
-
-![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact)](https://github.com/infinityc2/github-readme-stats) ![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
 
 ### Languages and tools
 <p align="left">
