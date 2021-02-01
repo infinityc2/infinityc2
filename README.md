@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Jirapat Duangpratum</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityc2&theme=dracula&layout=compact)](https://github.com/infinityc2/github-readme-stats) ![Infinityc2's github stats](https://github-readme-stats.vercel.app/api?username=infinityc2&show_icons=true&theme=dracula)
-
+<!--
 ### Languages and tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="30" height="30">
@@ -12,6 +12,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="30" height="30">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30">
 </p>
+-->
 
 ### Contact
 <a href="https://www.linkedin.com/in/jirapat-duangpratum-229345161/" target="blank">
